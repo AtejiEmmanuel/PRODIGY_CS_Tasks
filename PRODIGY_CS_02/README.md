@@ -1,8 +1,8 @@
-# Password Complexity Checker Project
+# Password Complexity Checker Task
 
 A Python-based command-line tool that evaluates password strength against multiple security criteria and provides actionable feedback.
 
-## Project Overview
+## Task Overview
 
 This tool analyzes passwords based on security best practices and helps users create stronger passwords by offering specific improvement suggestions.
 
