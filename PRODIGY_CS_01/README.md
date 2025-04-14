@@ -8,7 +8,7 @@ The Caesar Cipher is one of the earliest and simplest forms of encryption. It wo
 
 ## Demo
 
-![Image Alt]()
+![Image Alt](https://github.com/AtejiEmmanuel/PRODIGY_CS_Tasks/blob/main/PRODIGY_CS_01/Task%201.png?raw=true)
 
 *Terminal demonstration showing encryption of "Yomi" with shift 5 resulting in "Dtrn", and decryption of "Dtrn" with shift 5 returning to "Yomi"*
 
