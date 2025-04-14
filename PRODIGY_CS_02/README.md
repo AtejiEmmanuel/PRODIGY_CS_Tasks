@@ -55,3 +55,6 @@ Passwords are evaluated on a point system and classified as:
 - **Strong** (5-6 points): Good security measures
 - **Very Strong** (7+ points): Excellent security characteristics
 
+## Demo
+![Image Alt]()
+
