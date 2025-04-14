@@ -58,5 +58,5 @@ Passwords are evaluated on a point system and classified as:
 ## Demo
 ![Image Alt](https://github.com/AtejiEmmanuel/PRODIGY_CS_Tasks/blob/main/PRODIGY_CS_02/Task%202.png?raw=true)
 
-[Image Alt](https://github.com/AtejiEmmanuel/PRODIGY_CS_Tasks/blob/main/PRODIGY_CS_02/Task%202a.png?raw=true)
+![Image Alt](https://github.com/AtejiEmmanuel/PRODIGY_CS_Tasks/blob/main/PRODIGY_CS_02/Task%202a.png?raw=true)
 
