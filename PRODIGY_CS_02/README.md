@@ -56,5 +56,5 @@ Passwords are evaluated on a point system and classified as:
 - **Very Strong** (7+ points): Excellent security characteristics
 
 ## Demo
-![Image Alt]()
+![Image Alt](https://github.com/AtejiEmmanuel/PRODIGY_CS_Tasks/blob/main/PRODIGY_CS_02/Task%202.png?raw=true)
 
