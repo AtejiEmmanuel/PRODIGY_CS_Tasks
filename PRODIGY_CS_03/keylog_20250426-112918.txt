@@ -1,0 +1,80 @@
+2025-04-26 11:29:23,326: Key pressed: s
+2025-04-26 11:29:23,335: Key pressed: h
+2025-04-26 11:29:23,540: Key released: 'h'
+2025-04-26 11:29:23,576: Key released: 's'
+2025-04-26 11:29:23,631: Key pressed: s
+2025-04-26 11:29:23,813: Key released: 's'
+2025-04-26 11:29:24,318: Special key pressed: Key.backspace
+2025-04-26 11:29:24,402: Key released: Key.backspace
+2025-04-26 11:29:24,484: Special key pressed: Key.backspace
+2025-04-26 11:29:24,585: Key released: Key.backspace
+2025-04-26 11:29:24,640: Special key pressed: Key.backspace
+2025-04-26 11:29:24,744: Key released: Key.backspace
+2025-04-26 11:29:24,782: Special key pressed: Key.backspace
+2025-04-26 11:29:24,905: Key released: Key.backspace
+2025-04-26 11:29:25,001: Key pressed: e
+2025-04-26 11:29:25,155: Key pressed: j
+2025-04-26 11:29:25,190: Key released: 'e'
+2025-04-26 11:29:25,254: Key released: 'j'
+2025-04-26 11:29:25,408: Key pressed: [
+2025-04-26 11:29:25,511: Key pressed: q
+2025-04-26 11:29:25,531: Key released: '['
+2025-04-26 11:29:25,726: Key released: 'q'
+2025-04-26 11:29:25,814: Key pressed: w
+2025-04-26 11:29:25,947: Key released: 'w'
+2025-04-26 11:29:26,067: Key pressed: e
+2025-04-26 11:29:26,257: Key pressed: u
+2025-04-26 11:29:26,268: Key pressed: 8
+2025-04-26 11:29:26,303: Key released: 'e'
+2025-04-26 11:29:26,342: Key released: '8'
+2025-04-26 11:29:26,358: Key released: 'u'
+2025-04-26 11:29:26,411: Key pressed: e
+2025-04-26 11:29:26,576: Key released: 'e'
+2025-04-26 11:29:26,702: Key pressed: n
+2025-04-26 11:29:26,713: Key pressed: e
+2025-04-26 11:29:26,777: Key released: 'n'
+2025-04-26 11:29:26,778: Key pressed: 3
+2025-04-26 11:29:26,897: Key released: 'e'
+2025-04-26 11:29:26,928: Key released: '3'
+2025-04-26 11:29:27,027: Key pressed: b
+2025-04-26 11:29:27,147: Key pressed: f
+2025-04-26 11:29:27,152: Key pressed: r
+2025-04-26 11:29:27,199: Key released: 'r'
+2025-04-26 11:29:27,320: Key released: 'b'
+2025-04-26 11:29:27,332: Key pressed: c
+2025-04-26 11:29:27,454: Key released: 'c'
+2025-04-26 11:29:27,553: Key released: 'f'
+2025-04-26 11:29:27,614: Key pressed: l
+2025-04-26 11:29:27,635: Key pressed: p
+2025-04-26 11:29:27,697: Key released: 'l'
+2025-04-26 11:29:27,754: Key released: 'p'
+2025-04-26 11:29:27,979: Key pressed: d
+2025-04-26 11:29:28,162: Key released: 'd'
+2025-04-26 11:29:28,176: Special key pressed: Key.backspace
+2025-04-26 11:29:28,676: Special key pressed: Key.backspace
+2025-04-26 11:29:28,727: Special key pressed: Key.backspace
+2025-04-26 11:29:28,779: Special key pressed: Key.backspace
+2025-04-26 11:29:28,830: Special key pressed: Key.backspace
+2025-04-26 11:29:28,882: Special key pressed: Key.backspace
+2025-04-26 11:29:28,933: Special key pressed: Key.backspace
+2025-04-26 11:29:28,984: Special key pressed: Key.backspace
+2025-04-26 11:29:29,035: Special key pressed: Key.backspace
+2025-04-26 11:29:29,086: Special key pressed: Key.backspace
+2025-04-26 11:29:29,138: Special key pressed: Key.backspace
+2025-04-26 11:29:29,188: Special key pressed: Key.backspace
+2025-04-26 11:29:29,242: Special key pressed: Key.backspace
+2025-04-26 11:29:29,294: Special key pressed: Key.backspace
+2025-04-26 11:29:29,346: Special key pressed: Key.backspace
+2025-04-26 11:29:29,398: Special key pressed: Key.backspace
+2025-04-26 11:29:29,449: Special key pressed: Key.backspace
+2025-04-26 11:29:29,502: Special key pressed: Key.backspace
+2025-04-26 11:29:29,554: Special key pressed: Key.backspace
+2025-04-26 11:29:29,605: Special key pressed: Key.backspace
+2025-04-26 11:29:29,658: Special key pressed: Key.backspace
+2025-04-26 11:29:29,708: Special key pressed: Key.backspace
+2025-04-26 11:29:29,759: Special key pressed: Key.backspace
+2025-04-26 11:29:29,810: Special key pressed: Key.backspace
+2025-04-26 11:29:29,861: Special key pressed: Key.backspace
+2025-04-26 11:29:29,872: Key released: Key.backspace
+2025-04-26 11:29:29,991: Special key pressed: Key.ctrl
+2025-04-26 11:29:30,366: Key pressed: c

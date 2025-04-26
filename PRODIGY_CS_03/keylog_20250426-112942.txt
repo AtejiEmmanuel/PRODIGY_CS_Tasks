@@ -1,0 +1,3 @@
+2025-04-26 11:29:42,789: Key released: Key.enter
+2025-04-26 11:29:44,424: Special key pressed: Key.ctrl
+2025-04-26 11:29:44,787: Key pressed: c
