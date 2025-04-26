@@ -101,12 +101,6 @@ The encryption/decryption process follows these steps:
 5. Create a new image with the processed pixels
 6. Save the result to the output file
 
-## Security Considerations
-
-- This is a basic implementation suitable for educational purposes
-- The security strength depends entirely on the password complexity
-- The encrypted image will appear as random noise but professional cryptanalysis might reveal patterns
-- Not recommended for highly sensitive data without additional security measures
 
 ## Troubleshooting
 
@@ -115,14 +109,4 @@ The encryption/decryption process follows these steps:
 - **Corrupted Decryption**: Verify you're using the same password as for encryption
 - **PIL Import Error**: Install the Pillow library using apt as shown in the installation section
 
-## Future Improvements
 
-- Add additional encryption algorithms
-- Implement key stretching for enhanced security
-- Add a GUI interface
-- Support for additional image formats
-- Add integrity verification
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
