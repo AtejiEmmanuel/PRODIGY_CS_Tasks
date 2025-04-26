@@ -98,7 +98,7 @@ with Listener(on_press=on_press, on_release=on_release) as listener:
 ```bash
 python3 keylogger.py
 ```
-![Alt text](images/example.png)
+![Alt text](https://github.com/AtejiEmmanuel/PRODIGY_CS_Tasks/blob/main/PRODIGY_CS_03/screenshots/task%203a.png?raw=true)
 ### Stop the keylogger
 
 Press the **Esc** key to stop the keylogger properly. 
