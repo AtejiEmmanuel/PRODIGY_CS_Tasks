@@ -98,7 +98,7 @@ with Listener(on_press=on_press, on_release=on_release) as listener:
 ```bash
 python3 keylogger.py
 ```
-
+![Alt text](images/example.png)
 ### Stop the keylogger
 
 Press the **Esc** key to stop the keylogger properly. 
@@ -112,7 +112,7 @@ cat ~/keylogger_project/keylog_*.txt
 ```
 
 This will display all captured keystrokes with their timestamps.
-
+![Alt text](images/example.png)
 ## How It Works
 
 1. **Listener Setup**: The script uses pynput's Listener to monitor keyboard events.
