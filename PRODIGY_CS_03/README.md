@@ -112,7 +112,7 @@ cat ~/keylogger_project/keylog_*.txt
 ```
 
 This will display all captured keystrokes with their timestamps.
-![Alt text](images/example.png)
+![Alt text](https://github.com/AtejiEmmanuel/PRODIGY_CS_Tasks/blob/main/PRODIGY_CS_03/screenshots/task%203b.png?raw=true)
 ## How It Works
 
 1. **Listener Setup**: The script uses pynput's Listener to monitor keyboard events.
