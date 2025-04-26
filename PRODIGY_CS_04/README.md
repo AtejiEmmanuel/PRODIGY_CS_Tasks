@@ -83,6 +83,7 @@ The basic syntax for using the tool is:
 
 > **Note:** You must use the same password for decryption as was used for encryption.
 
+![Alt text](https://github.com/AtejiEmmanuel/PRODIGY_CS_Tasks/blob/main/PRODIGY_CS_04/screenshots/Task%204C.png?raw=true)
 ## How It Works
 
 1. **Password Processing**: The password is hashed using SHA-256 to generate a secure key.
